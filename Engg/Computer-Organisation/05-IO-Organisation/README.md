@@ -1,4 +1,4 @@
-## IO Organisation
+# IO Organisation
 
 ## Introduction
 ### Input Devices
